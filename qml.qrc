@@ -1,0 +1,84 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/main.qml</file>
+        <file>Qml/Page/ControlsShow.qml</file>
+        <file>Qml/Page/Home.qml</file>
+        <file>Qml/Pane/ContentModel.qml</file>
+        <file>Qml/Pane/LeftPane.qml</file>
+        <file>Qml/Pane/RightPane.qml</file>
+        <file>Qml/Pane/TitlePane.qml</file>
+        <file>Qml/Pane/ContentPane.qml</file>
+        <file>Qml/Dialog/AboutDialog.qml</file>
+        <file>Qml/Dialog/SettingsDialog.qml</file>
+        <file>Qml/Biz/CircleText.qml</file>
+        <file>Qml/Biz/CloseBtn.qml</file>
+        <file>Qml/Biz/ExpandBtn.qml</file>
+        <file>Qml/Biz/LangBtn.qml</file>
+        <file>Qml/Biz/SkinBtn.qml</file>
+        <file>Qml/Pane/PaneMainButtons.qml</file>
+        <file>Qml/Page/PageInspection.qml</file>
+        <file>Qml/Page/PageHardwareOP.qml</file>
+        <file>Qml/Page/PageGrabbingImage.qml</file>
+        <file>Qml/Page/PageReport.qml</file>
+        <file>Qml/Page/PageLogin.qml</file>
+        <file>Qml/Page/PageModifyPassword.qml</file>
+        <file>Qml/Pane/PanePageHardwareTab.qml</file>
+        <file>Qml/Page/PageSmartInspectionEntrance.qml</file>
+		<file>Qml/Page/PageUsersList.qml</file>
+		<file>Qml/Page/PageAddUsers.qml</file>
+		<file>Qml/Page/HardwareProjectTables.qml</file>
+        
+        <file>Qml/Content/InspectsProjectMan.qml</file>
+		<file>Qml/Content/LogProjectMan.qml</file>
+		<file>Qml/Content/UserProjectMan.qml</file>
+		<file>Qml/Content/PasswdProjectMan.qml</file>
+		<file>Qml/Content/HardwareProjectMan.qml</file>
+
+		<file>Qml/Content/ComponentMan.qml</file>
+
+        <file>Qml/Content/InspectLibMan.qml</file>
+        <file>Qml/Content/PinMan.qml</file>
+        <file>Qml/Content/Setting.qml</file>
+		<file>Qml/Page/FlowContentPane.qml</file>
+		
+		<file>Qml/Page/PageInstrumentList.qml</file>
+		<file>Qml/Page/PageModifyInstrument.qml</file>
+		<file>Qml/Page/PageAddInstrument.qml</file>
+        <file>Qml/Page/InspectsProjectTables.qml</file>
+        <file>Qml/Page/PageUserProjectTables.qml</file>
+        <file>Qml/Page/PagePasswdProjectTables.qml</file>
+         <file>Qml/Page/PageModifyUsers.qml</file>
+          <file>Qml/Page/PageAddUsers.qml</file>
+		   <file>Qml/Page/AddInspectsProject.qml</file>
+		   		   <file>Qml/Page/EditInspectsProject.qml</file>
+	
+
+		<file>Qml/Page/PageLogProjectTables.qml</file>
+		<file>Qml/Page/PageLogTimeBegin.qml</file>
+		<file>Qml/Page/PageLogTimeEnd.qml</file>
+		<file>Qml/Page/PageUserTime.qml</file>
+
+		        <file>Qml/Content/UserProjectMan.qml</file>
+		
+        
+        <file>Qml/Flow/FlowContentPane.qml</file>
+        <file>Qml/Flow/InspectsProject/AddInspectsProject.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectsProjectDetail.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectProject_CAD.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectProject_InspectLib.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectProject_Subboard_Layout.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectProject_Subboard_Releation.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectProject_CAD_Relation.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectProject_CAD_Layout.qml</file>
+        <file>Qml/Flow/InspectsProject/InspectProject_3D.qml</file>
+        <file>Qml/Flow/ComponentLib/ComponentTable.qml</file>
+        <file>Qml/Flow/ComponentLib/ComponentEdit.qml</file>
+        <file>Qml/Flow/ComponentLib/Component_Pin_Layout.qml</file>
+        <file>Qml/Flow/Pin/Pin_Edit.qml</file>
+        <file>Qml/Flow/ComponentLib/Component_Pin_Table.qml</file>
+        <file>Qml/Flow/InspectLib/InspectLib_Table.qml</file>
+        <file>Qml/Flow/InspectLib/InspectLib_Edit.qml</file>
+        <file>Qml/Flow/InspectLib/Inspect_Program.qml</file>
+
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+---- getUsrList Matches (14 in 4 files) ----
+PageUserProjectTables.qml (Qml\Page) line 94 :                 var desc = user.getUsrList(accountinput.text, curlogintime.text);
+PageUserProjectTables.qml (Qml\Page) line 150 : 	    		var desc = user.getUsrList();
+PageUserProjectTables.qml (Qml\Page) line 198 : 	    		var desc = user.getUsrList();
+PageUserProjectTables.qml (Qml\Page) line 258 : 					var desc = user.getUsrList();
+PageUserProjectTables.qml (Qml\Page) line 336 : 				var desc = user.getUsrList();
+PageUserProjectTables.qml (Qml\Page) line 681 : 								var desc = user.getUsrList();
+PageUserProjectTables.qml (Qml\Page) line 749 : 		var desc = user.getUsrList();
+PageUsersList.qml (Qml\Page) line 101 :                 var desc = user.getUsrList(accountinput.text, curlogintime.text);
+PageUsersList.qml (Qml\Page) line 157 : 	    		var desc = user.getUsrList();
+PageUsersList.qml (Qml\Page) line 205 : 	    		var desc = user.getUsrList();
+PageUsersList.qml (Qml\Page) line 539 : 								var desc = user.getUsrList();
+PageUsersList.qml (Qml\Page) line 607 : 		var desc = user.getUsrList();
+user.cpp (Src\User) line 24 : QString CUser::getUsrList(QString account, QString begintime)
+CUser in user.h (Src\User) : 		Q_INVOKABLE QString getUsrList(QString account="", QString begintime="");

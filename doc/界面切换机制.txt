@@ -1,0 +1,21 @@
+smart Inspection APP use static->Loader way:
+启动进入 loginPage；成功进入  platform
+各个下级 界面 通过按钮 load, 下级 界面 退出后  返回 platform
+
+
+
+
+---------references------------
+QML 界面切换的几种方法（带示例代码）
+https://www.cnblogs.com/linuxAndMcu/p/13566502.html
+1.static
+(1)hide
+(2)stack view( for wizard)
+
+2.dynamic
+(1)loader
+(2)createComponent
+
+
+stack view method:
+https://blog.csdn.net/foruok/article/details/46839569

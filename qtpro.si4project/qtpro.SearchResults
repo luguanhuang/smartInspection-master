@@ -1,0 +1,7 @@
+---- getLogList Matches (6 in 4 files) ----
+PageActivityLog.qml (Qml\Page) line 161 :                 var desc = user.getLogList(accountinfo.text, devicenum.text, operatortype.text, timeselectorbegin.seltime, timeselectorend.seltime);
+PageActivityLog.qml (Qml\Page) line 444 :     	var desc = user.getLogList();
+PageLogProjectTables.qml (Qml\Page) line 169 :                 var desc = user.getLogList(accountinfo.text, devicenum.text, operatortype.text, timeselectorbegin.seltime, timeselectorend.seltime);
+PageLogProjectTables.qml (Qml\Page) line 404 :     	var desc = user.getLogList();
+user.cpp (Src\User) line 122 : QString CUser::getLogList(QString account, QString devnum, QString type, QString begintime, QString endtime)
+CUser in user.h (Src\User) : 		Q_INVOKABLE QString getLogList(QString account="", QString devnum="", QString type="", QString begintime="", QString endtime="");
